@@ -6,7 +6,8 @@ namespace ConsoleApp1
     {
         static void Main()
         {
-            
+            Console.WriteLine("Хэлоу ворлд!!!");
+
             switch (oper) {
                 case '+':
                     Plus(num1, num2);
