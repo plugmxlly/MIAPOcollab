@@ -45,7 +45,7 @@ namespace ConsoleApp1
         }
 
         static void Main()
-        {
+        {     
             Console.WriteLine("Введите первое число:");
             double num1 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Введите второе число:");
